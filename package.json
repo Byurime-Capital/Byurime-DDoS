@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "child_process": "latest",
+    "cloudscraper": "^4.6.0",
+    "cluster": "latest",
+    "colors": "^1.4.0",
+    "crypto": "latest",
+    "events": "^3.3.0",
+    "express": "^4.18.2",
+    "fake-useragent": "^1.0.1",
+    "fs": "^0.0.2",
+    "gradient-string": "^2.1.1",
+    "http": "^0.0.1-security",
+    "http2": "^4.0.0",
+    "net": "latest",
+    "node-telegram-bot-api": "^0.61.0",
+    "randomstring": "^1.3.1",
+    "request": "latest",
+    "requests": "latest",
+    "telegraf": "^4.16.0",
+    "tls": "latest",
+    "url": "^0.11.4",
+    "user-agents": "^1.1.120"
+  }
+}
